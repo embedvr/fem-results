@@ -31,7 +31,7 @@
 	</header>
 	<main class="flex w-full flex-col sm:w-[20rem]">
 		<div class="px-7 py-5">
-			<h4 class="text-lg font-medium" role="heading">Summary</h4>
+			<h4 class="text-lg font-medium">Summary</h4>
 			<div class="mt-4 flex flex-col justify-around gap-3">
 				<div
 					class="flex w-full flex-row items-center justify-between rounded-xl bg-red-300 bg-opacity-10 p-4"
@@ -43,8 +43,8 @@
 						<span role="text">Reaction</span>
 					</div>
 					<div class="font-medium">
-						<span class="text-black" role="number">80</span>
-						<span class="text-gray-400" role="number"> / 100</span>
+						<span class="text-black">80</span>
+						<span class="text-gray-400"> / 100</span>
 					</div>
 				</div>
 				<div
@@ -54,11 +54,11 @@
 						class="flex flex-row items-center gap-3 font-medium text-yellow-400"
 					>
 						<IconoirBrain class="h-5 w-5" />
-						<span role="text">Memory</span>
+						<span>Memory</span>
 					</div>
 					<div class="font-medium">
-						<span class="text-black" role="number">92</span>
-						<span class="text-gray-400" role="number"> / 100</span>
+						<span class="text-black">92</span>
+						<span class="text-gray-400"> / 100</span>
 					</div>
 				</div>
 				<div
@@ -68,11 +68,11 @@
 						class="flex flex-row items-center gap-3 font-medium text-green-400"
 					>
 						<IonChatbubbleEllipsesOutline class="h-5 w-5" />
-						<span role="text">Verbal</span>
+						<span>Verbal</span>
 					</div>
 					<div class="font-medium">
-						<span class="text-black" role="number">61</span>
-						<span class="text-gray-400" role="number"> / 100</span>
+						<span class="text-black">61</span>
+						<span class="text-gray-400"> / 100</span>
 					</div>
 				</div>
 				<div
@@ -82,11 +82,11 @@
 						class="flex flex-row items-center gap-3 font-medium text-blue-400"
 					>
 						<MdiEyeOutline class="h-5 w-5" />
-						<span role="text">Visual</span>
+						<span>Visual</span>
 					</div>
 					<div class="font-medium">
-						<span class="text-black" role="number">72</span>
-						<span class="text-gray-400" role="number"> / 100</span>
+						<span class="text-black">72</span>
+						<span class="text-gray-400"> / 100</span>
 					</div>
 				</div>
 			</div>
