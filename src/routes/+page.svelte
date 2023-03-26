@@ -5,6 +5,10 @@
 	import MdiEyeOutline from '~icons/mdi/eye-outline';
 </script>
 
+<svelte:head>
+	<title>Results Summary Challenge</title>
+</svelte:head>
+
 <div
 	class="flex h-full flex-col rounded-[2rem] sm:h-fit sm:flex-row sm:bg-white sm:drop-shadow-xl"
 >
@@ -15,11 +19,11 @@
 		<div
 			class="flex h-36 w-36 flex-col items-center justify-center rounded-full bg-gradient-to-b from-indigo-800 to-transparent sm:h-40 sm:w-40"
 		>
-			<h3 class="text-5xl font-bold text-white">76</h3>
+			<h2 class="text-5xl font-bold text-white">76</h3>
 			<span class="font-medium text-gray-300 opacity-75">of 100</span>
 		</div>
 		<div class="flex flex-col items-center justify-center gap-1 text-center">
-			<h2 class="text-2xl font-bold text-white">Great</h2>
+			<h3 class="text-2xl font-bold text-white">Great</h2>
 			<span class="font-medium text-gray-300 opacity-75"
 				>You scored higher than 69% of the people who have taken these tests.</span
 			>
