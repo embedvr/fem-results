@@ -40,7 +40,7 @@
 						class="flex flex-row items-center gap-3 font-medium text-red-400"
 					>
 						<MaterialSymbolsBoltOutline class="h-5 w-5" />
-						<span role="text">Reaction</span>
+						<span>Reaction</span>
 					</div>
 					<div class="font-medium">
 						<span class="text-black">80</span>
